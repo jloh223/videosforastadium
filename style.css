@@ -1,0 +1,19 @@
+.image-container{
+  min-height:200px;
+}
+
+.upper-left{
+  background-color: red;
+  background-image:
+    <img src= "a-s345/football.jpg"/>
+}
+
+.upper-right{
+  background-color: purple;
+}
+.lower-left{
+  background-color: green;
+}
+.lower-right{
+  background-color: yellow;
+}
