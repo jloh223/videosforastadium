@@ -6,7 +6,7 @@
 
 .upper-left{
   background-color: red;
-  background-image: img src= "images/football.jpg";
+  background-image: <img src="images/football.jpg"/>
 }
 
 .upper-right{
