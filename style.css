@@ -14,6 +14,8 @@
 
 .upper-right{
   background-color: purple;
+  background-image: url(https://unsplash.it/1000/300?photo=P_NdM0ua3lg);
+  background-repeat:no-repeat;
 }
 
 .lower-left{
