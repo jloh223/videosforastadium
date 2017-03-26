@@ -3,16 +3,11 @@
   padding:0px;
 }
 
-#container {
-  background-image:url(images/football.png);
-}
-
 .image-container{
   min-height:200px;
 }
 
 .upper-left{
-  background-image: url (images/football.jpg)
   background-color: red;
 }
 
