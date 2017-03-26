@@ -1,4 +1,11 @@
+*{
+  margin:0px;
+  padding:0px;
+}
 
+#container {
+  background-image:url(images/football.png);
+}
 
 .image-container{
   min-height:200px;
