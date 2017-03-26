@@ -14,13 +14,18 @@
 
 .upper-right{
   background-color: purple;
-  background-image: url(https://images.unsplash.com/photo-1434854775064-aa2c72a4aa32?dpr=2&auto=compress,format&fit=crop&w=1199&h=674&q=80&cs=tinysrgb&crop=);
+  background-image: url(https://images.unsplash.com/photo-1485313260896-6e6edf486858?dpr=2&auto=compress,format&fit=crop&w=991&h=661&q=80&cs=tinysrgb&crop=);
   background-repeat:no-repeat;
 }
 
 .lower-left{
   background-color: green;
+  background-image: url(https://static1.squarespace.com/static/5210fc6de4b0717200291402/t/55720510e4b075ba7b7f6139/1433535763899/SportsNation-8096lowres.jpg?format=1000/300);
+  background-repeat: no-repeat;
+
 }
 .lower-right{
   background-color: yellow;
+  background-image: url(https://i.ytimg.com/vi/PFNYp-evsiA/maxresdefault.jpg
+  background-repeat: no-repeat);
 }
