@@ -10,6 +10,9 @@
 .fill-height-or-more{
   display: flex;
   flex-direction: column;
+}
+
+.fill-height-or-more > div {
   flex: 1 1 auto;
 }
 
