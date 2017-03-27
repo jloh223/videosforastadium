@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>
+    Videos For a Stadium: Tickets
+  </title>
+</head>
+  <div class="container-fluid">
+    <div class="jumbotron text-center">
+      <h2>Tickets</h2>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        <a href="https://codepen.io/jenniferlohagan/pen/LWJbjw"><h4>Back</h4></a>
+        <p>
+        Tickets are $15 for general public and $10 for Museum members.
+Funds raised at this event will go to support the Museum’s FREE Admission policy.
+
+Tickets are available online <a href="https://trans.worldpay.us/cgi-bin/WebPAY.cgi?formid=BB250F6BC14110CEDBAD22AF7FDFCB2CD3D1EF04DBC70B6A4745131920DB8B5E&sessionid=AE46DACB8992AE4C">here</a>.
+ </p>
+
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

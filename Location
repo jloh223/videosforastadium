@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>
+    Videos For a Stadium: Location
+  </title>
+</head>
+  <div class="container-fluid">
+    <div class="jumbotron text-center">
+      <h1>Location</h1>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        <a href="https://codepen.io/jenniferlohagan/pen/LWJbjw"><h4>Back</h4></a></h4>
+        <p>
+        The event will be held at Commonwealth Stadium. Free parking is available in the Green Lot behind the stadium. </p>
+          <div style="text-align: center">
+            <img src="https://files.slack.com/files-pri/T0HMSSAQH-F4Q9X5G03/on-campus-permit-parking.png">
+          </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
