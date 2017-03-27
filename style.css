@@ -7,6 +7,12 @@
   min-height:200px;
 }
 
+.fill-height-or-more{
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+}
+
 .upper-left{
   background-image: url(https://unsplash.it/1000/300?image=73);
   background-repeat:no-repeat;
