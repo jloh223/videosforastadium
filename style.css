@@ -58,6 +58,7 @@ p{
   font-family:'Open Sans', sans-serif;
   text-align:center;
   font-size:2em;
+  color:white;
   margin-left:auto;
   margin-right:auto;
   padding:1em;
@@ -70,7 +71,7 @@ p2{
   font-size:4em;
   margin-left:auto;
   margin-right:auto;
-  padding:1em;
+
 }
 
 img.class-name{
