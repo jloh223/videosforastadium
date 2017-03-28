@@ -63,7 +63,15 @@ p{
   padding:1em;
 }
 
-
+p2{
+  font-family:'Open Sans', sans-serif;
+  text-align:center;
+  font-color:white;
+  font-size:6em;
+  margin-left:auto;
+  margin-right:auto;
+  padding:1em;
+}
 
 img.class-name{
   position:absolute;
