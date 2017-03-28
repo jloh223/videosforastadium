@@ -33,6 +33,17 @@ h1{
   padding: 1em;
 }
 
+h3{
+  font-family: "Black Ops One",cursive;
+  color: black;
+  text-align: left;
+  font-size: 10px;
+  font-size: 1vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em;
+}
+
 h4{
   font-family: helvetica;
   color: black;
