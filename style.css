@@ -7,6 +7,10 @@
   min-height:200px;
 }
 
+.contentBox {
+    height: 100vh;
+}
+
 .jumbotron{
   background: linear-gradient(
       rgba(40, 0, 0, 0.40),
@@ -99,7 +103,6 @@ h2{
       url(https://cdn0.vox-cdn.com/thumbor/PCRsOQNn8QIwfELQTFCWE3XZR5I=/24x0:4983x3306/1310x873/cdn0.vox-cdn.com/uploads/chorus_image/image/47096008/GettyImages-180554412.0.jpg) center;
     background-repeat:no-repeat;
     background-size: 100%;
-    height:auto;
   }
 
 .top{
