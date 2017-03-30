@@ -5,6 +5,7 @@
 
 .image-container{
   min-height:200px;
+  max-height:1000px;
 }
 
 .jumbotron{
@@ -109,6 +110,7 @@ h2{
     url(https://images.unsplash.com/photo-1485313260896-6e6edf486858?dpr=2&auto=compress,format&fit=crop&w=991&h=661&q=80&cs=tinysrgb&crop=) center;
   background-repeat:no-repeat;
   background-size: 100%;
+
   }
 
 .upper-right{
