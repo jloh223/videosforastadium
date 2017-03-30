@@ -3,10 +3,6 @@
   padding:0px;
 }
 
-.image-container{
-  /*min-height:200px;*/
-
-}
 
 
 
@@ -127,7 +123,7 @@ h2{
       url(https://unsplash.it/1000/300?image=73) center;
   background-repeat:no-repeat;
   background-size: 100%;
-  
+
   min-height: 900px;
 }
 
