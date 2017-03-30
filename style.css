@@ -80,6 +80,7 @@ p2{
 img.class-name{
   position:absolute;
   margin:auto;
+  height:auto;
   left:0;
   right:0;
   top:0;
