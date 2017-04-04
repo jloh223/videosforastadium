@@ -102,6 +102,17 @@ h2{
     min-height: 900px;
     }
 
+    .bottom{
+      background: linear-gradient(
+          rgba(40, 0, 0, 0.40),
+          rgba(40, 0, 0, 0.40)
+        ),
+        url(http://static.silverchalice.co/kty-prod/2017/03/25/1490409427179-uk_bsb_olemiss_3_24_2017_20_bdh.jpg);
+      background-repeat:no-repeat;
+      background-size: 100%;
+      min-height:900px;
+    }
+
 
 .upper-left{
     background: linear-gradient(
@@ -137,15 +148,4 @@ h2{
   background-repeat: no-repeat;
   background-size: 100%;
   min-height: 900px;
-}
-
-.bottom{
-  background: linear-gradient(
-      rgba(40, 0, 0, 0.40),
-      rgba(40, 0, 0, 0.40)
-    ),
-    url(http://static.silverchalice.co/kty-prod/2017/03/25/1490409427179-uk_bsb_olemiss_3_24_2017_20_bdh.jpg);
-  background-repeat:no-repeat;
-  background-size: 100%;
-  min-height:900px;
 }
