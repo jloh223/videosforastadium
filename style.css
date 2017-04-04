@@ -90,7 +90,7 @@ h2{
   text-align: center;
   }
 
-  .title{
+  .top{
     background: linear-gradient(
         rgba(40, 0, 0, 0.40),
         rgba(40, 0, 0, 0.40)
@@ -103,7 +103,7 @@ h2{
     }
 
 
-.location{
+.upper-left{
     background: linear-gradient(
         rgba(40, 0, 0, 0.40),
         rgba(40, 0, 0, 0.40)
@@ -116,7 +116,7 @@ h2{
 
 
 
-.tickets{
+.upper-right{
     background: linear-gradient(
       rgba(40, 0, 0, 0.40),
       rgba(40, 0, 0, 0.40)
@@ -128,7 +128,7 @@ h2{
   min-height: 900px;
 }
 
-.sponsors{
+.lower-left{
     background: linear-gradient(
       rgba(40, 0, 0, 0.40),
       rgba(40, 0, 0, 0.40)
@@ -139,7 +139,7 @@ h2{
   min-height: 900px;
 }
 
-.about{
+.bottom{
   background: linear-gradient(
       rgba(40, 0, 0, 0.40),
       rgba(40, 0, 0, 0.40)
