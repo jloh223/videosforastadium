@@ -90,8 +90,20 @@ h2{
   text-align: center;
   }
 
+  .title{
+    background: linear-gradient(
+        rgba(40, 0, 0, 0.40),
+        rgba(40, 0, 0, 0.40)
+      ),
+      url(https://images.unsplash.com/photo-1485313260896-6e6edf486858?dpr=2&auto=compress,format&fit=crop&w=991&h=661&q=80&cs=tinysrgb&crop=) center;
+    background-repeat:no-repeat;
+    background-size: 100%;
 
-.upper-left{
+    min-height: 900px;
+    }
+
+
+.location{
     background: linear-gradient(
         rgba(40, 0, 0, 0.40),
         rgba(40, 0, 0, 0.40)
@@ -102,20 +114,9 @@ h2{
     min-height: 900px;
   }
 
-.top{
-  background: linear-gradient(
-      rgba(40, 0, 0, 0.40),
-      rgba(40, 0, 0, 0.40)
-    ),
-    url(https://images.unsplash.com/photo-1485313260896-6e6edf486858?dpr=2&auto=compress,format&fit=crop&w=991&h=661&q=80&cs=tinysrgb&crop=) center;
-  background-repeat:no-repeat;
-  background-size: 100%;
 
-  min-height: 900px;
 
-  }
-
-.upper-right{
+.tickets{
     background: linear-gradient(
       rgba(40, 0, 0, 0.40),
       rgba(40, 0, 0, 0.40)
@@ -127,7 +128,7 @@ h2{
   min-height: 900px;
 }
 
-.lower-left{
+.sponsors{
     background: linear-gradient(
       rgba(40, 0, 0, 0.40),
       rgba(40, 0, 0, 0.40)
@@ -138,7 +139,7 @@ h2{
   min-height: 900px;
 }
 
-.bottom{
+.about{
   background: linear-gradient(
       rgba(40, 0, 0, 0.40),
       rgba(40, 0, 0, 0.40)
