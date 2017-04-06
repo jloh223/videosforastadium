@@ -42,16 +42,6 @@ h3{
   margin-right: auto;
 }
 
-h4{
-  font-family: helvetica;
-  color: black;
-  text-align: left;
-  font-size: 10px;
-  font-size: 1vw;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 1em;
-}
 
 p1{
   font-family:'Open Sans', sans-serif;
@@ -71,7 +61,6 @@ p2{
   margin-left:auto;
   margin-right:auto;
   padding:1em;
-
 }
 
 img.class-name{
