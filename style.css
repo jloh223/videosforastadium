@@ -81,8 +81,8 @@ h2{
 
   .top{
     background: linear-gradient(
-        rgba(40, 0, 0, 0.40),
-        rgba(40, 0, 0, 0.40)
+        rgba(0, 50, 158, 0.8),
+        rgba(0, 50, 158, 0.8)
       ),
       url(http://sportslabs-webproxy.imgix.net/http%3A%2F%2Fstatic.silverchalice.co%2Fkty-prod%2F2015%2F12%2F07%2F20151207160941_uk_mizzou_9_26_15_26_bdh_jpg?s=fbd5fdd4125141acb128298323fe1532);
     background-repeat:no-repeat;
@@ -93,8 +93,8 @@ h2{
 
     .bottom{
       background: linear-gradient(
-          rgba(40, 0, 0, 0.40),
-          rgba(40, 0, 0, 0.40)
+          rgba(0, 50, 158, 0.8),
+          rgba(0, 50, 158, 0.8)
         ),
         url(http://static.silverchalice.co/kty-prod/2016/03/09/20160309010146_uk_cincinnati_3_8_16_08_eh_jpg);
       background-repeat:no-repeat;
@@ -105,8 +105,8 @@ h2{
 
 .upper-left{
     background: linear-gradient(
-        rgba(40, 0, 0, 0.40),
-        rgba(40, 0, 0, 0.40)
+        rgba(0, 50, 158, 0.8),
+        rgba(0, 50, 158, 0.8)
       ),
       url(https://cdn0.vox-cdn.com/thumbor/PCRsOQNn8QIwfELQTFCWE3XZR5I=/24x0:4983x3306/1310x873/cdn0.vox-cdn.com/uploads/chorus_image/image/47096008/GettyImages-180554412.0.jpg) center;
     background-repeat:no-repeat;
@@ -118,8 +118,8 @@ h2{
 
 .upper-right{
     background: linear-gradient(
-      rgba(40, 0, 0, 0.40),
-      rgba(40, 0, 0, 0.40)
+      rgba(0, 50, 158, 0.8),
+      rgba(0, 50, 158, 0.8)
     ),
       url(http://static.silverchalice.co/kty-prod/2017/01/28/1485573578993-uk_lsu_gymnastics_1_27_17_30_bw.jpg) center;
   background-repeat:no-repeat;
@@ -130,8 +130,8 @@ h2{
 
 .lower-left{
     background: linear-gradient(
-      rgba(40, 0, 0, 0.40),
-      rgba(40, 0, 0, 0.40)
+      rgba(0, 50, 158, 0.8),
+      rgba(0, 50, 158, 0.8)
     ),
       url(http://static.silverchalice.co/kty-prod/2015/07/22/media__sports_c-track_auto_original_7153727-1437524671380.jpeg)center;
   background-repeat: no-repeat;
